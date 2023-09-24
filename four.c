@@ -43,8 +43,6 @@ char push(struct Stack* stack,char val)
 
 char pop(struct Stack* stack)
 {
-    return stack->array[stack->top--];
-    return '$';
 }
 
 int main()
