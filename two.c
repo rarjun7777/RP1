@@ -30,8 +30,6 @@ void isempty(int top)
 
 void push(struct Stack* stack,char op)
 {
-    stack->top++;
-    stack->array[stack->top]=op;
 }
 
 char pop(struct Stack* stack)
