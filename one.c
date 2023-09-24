@@ -43,10 +43,6 @@ void push(struct Stack *stack, int data)
 void pop(struct Stack *stack)
 {
     stack->top--;
-    for (int i = 0; i <= stack->top; i++)
-    {
-        printf(" %d  ", stack->array[i]);
-    }
 }
 
 int main()
