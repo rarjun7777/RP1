@@ -6,7 +6,7 @@ DSA
 
 # CODES 
 
--> one.c contains the c code for implementation of stacks 
+-> one.c file contains the c language code for implementation of stacks 
 
 -> two.c contains the c code for postfix evaluation 
 
