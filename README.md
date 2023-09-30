@@ -12,4 +12,4 @@ DSA
 
 -> three.c file contains the c language code to check whether a string is palindrome or not . 
 
--> four.c contains the c code for valid parenthesis .
+-> four.c file contains the c language code for valid parenthesis .
