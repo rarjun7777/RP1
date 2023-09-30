@@ -8,7 +8,7 @@ DSA
 
 -> one.c file contains the c language code for implementation of stacks 
 
--> two.c contains the c code for postfix evaluation 
+-> two.c file contains the c language code for postfix evaluation 
 
 -> three.c contains the c code to check whether a string is palindrome or not . 
 
